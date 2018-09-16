@@ -3,7 +3,7 @@
 
 ## VGGnet
 
-###  1. 논문 원제 
+###  1. 논문 제목
 Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR 2015, Karen Simonyan and Andrew Zisserman (Oxford)
 
 
@@ -22,4 +22,4 @@ Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR 2015, K
 - final layer : soft-max
 - all hidden layers have ReLU
 
-![Alt text](C:\Users\elfle\OneDrive\사진\머신러닝 이미지\VGGNet.png "VGGNet 구조")
+![VGGnet 구조](./image/VGGNet.png)
