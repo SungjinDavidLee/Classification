@@ -3,17 +3,17 @@
 
 ## VGGnet
 
-1.  논문 원제 
---------------
+###  1. 논문 원제 
 Very Deep Convolutional Networks for Large-Scale Image Recognition, ICLR 2015, Karen Simonyan and Andrew Zisserman (Oxford)
-2.  주요 Contribution 
---------------
+
+
+###  2. 주요 Contribution 
 - ConvNet Depth 가 이미지 인식 정확도에 미치는 영향 분석
 - ConvNet 구성에 있어 Small Conv Filter (3x3) 의 강력함 발견
 - 해당 ConvNet 구성으로 ImageNet 상위 랭킹을 차지하였을 뿐 아니라 다른 dataset 에서도 잘 동작 확인
 
-3.  Architecture
---------------
+
+###  3. Architecture
 - Input Size : fixed 224x224 RGB image
 - Preprocessing : subtracting the mean RGB value
 - padding is 1 pixel for 3x3 ConvLayers
